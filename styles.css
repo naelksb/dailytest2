@@ -6,7 +6,7 @@
     background-color: darkslateblue;
 }
 .text{
-    text-transform: 'Gill sans',sans-serif;
+    font-family: 'Gill sans',sans-serif;
     color: greenyellow;
     text-align: center;
 }
