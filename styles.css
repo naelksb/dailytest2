@@ -1,11 +1,11 @@
-h1 {
+judul{
     text-align: center;
     color:white
 }
-body{
+.background{
     background-color: darkslateblue;
 }
-pre{
+.text{
     text-transform: 'Gill sans',sans-serif;
     color: greenyellow;
     text-align: center;
