@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color:white
+}
+body{
+    background-color: darkslateblue;
+}
+pre{
+    text-transform: 'Gill sans',sans-serif;
+    color: greenyellow;
+    text-align: center;
+}
